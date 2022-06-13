@@ -15,6 +15,9 @@
       "al_ba": "a82feb6e789019c5",
 
       "is_id":"1534ffc21",
+
+      "interval":70000,
+
       "ads_list": ["is", "al"]
     }
   }
