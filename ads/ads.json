@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/data040521/pixelphotopro/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/data040521/pixelphotopro/master/ads/graphic2.png",
+      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic2.png",
       "appName": "Filters for Selfies",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
       "package": "filters.selfies.foto.art",
@@ -10,8 +10,8 @@
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/data040521/pixelphotopro/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data040521/pixelphotopro/master/ads/graphic.jpg",
+      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.jpg",
       "appName": "Album Cover Maker",
       "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
       "package": "com.photo.beauty.plus.album.cover",
