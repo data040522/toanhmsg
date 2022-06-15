@@ -7,7 +7,7 @@
 
       "is_id":"1533e01a1",
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["am", "is"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "al_re": "9fe0111e502b0ae3",
@@ -18,7 +18,7 @@
 
       "interval":70000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["al", "is"]
     }
   }
 ]
