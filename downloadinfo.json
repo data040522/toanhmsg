@@ -25,7 +25,7 @@
 
       "is_id":"1534ffc21",
 
-      "interval":70000,
+      "interval":5000,
 
       "ads_list": ["am", "al", "is"]
     }
