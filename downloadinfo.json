@@ -1,9 +1,9 @@
 [
   {
     "neon.horns.devil": {
-      "am_ba": "ca-app-pub-3204717227920759/5214489346",
-      "am_in": "ca-app-pub-3204717227920759/7639673831",
-      "am_na": "ca-app-pub-3204717227920759/1083672642",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "al_re": "c2fe71d919d39280",
       "al_in": "4cbaf8c900614cd6",
@@ -12,12 +12,12 @@
 
       "is_id":"1533e01a1",
 
-      "ads_list": ["al", "is", "am"]
+      "ads_list": ["al", "is"]
     },
     "sweet.beauty.cam.toanhmsg": {
-      "am_ba": "ca-app-pub-3204717227920759/2833520974",
-      "am_in": "ca-app-pub-3204717227920759/3679698788",
-      "am_na": "ca-app-pub-3204717227920759/8415367750",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "al_re": "9fe0111e502b0ae3",
       "al_in": "b22debe693ec74d1",
@@ -27,7 +27,7 @@
 
       "interval":5000,
 
-      "ads_list": ["al", "is","am"]
+      "ads_list": ["al", "is"]
     }
   }
 ]
