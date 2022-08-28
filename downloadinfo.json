@@ -19,15 +19,15 @@
       "am_in": "ca-app-pub-3204717227920759/6862813598",
       "am_na": "ca-app-pub-3204717227920759/2566962473",
 
-      "al_re": "",
-      "al_in": "",
-      "al_ba": "",
+      "al_re": "9fe0111e502b0ae3",
+      "al_in": "b22debe693ec74d1",
+      "al_ba": "a82feb6e789019c5",
 
       "is_id":"",
 
-      "interval":10,
+      "interval":300000,
 
-      "ads_list": ["am"]
+      "ads_list": ["al", "am"]
     }
   }
 ]
