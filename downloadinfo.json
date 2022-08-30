@@ -23,11 +23,11 @@
       "al_in": "b22debe693ec74d1",
       "al_ba": "a82feb6e789019c5",
 
-      "is_id":"",
+      "is_id":"1534ffc21",
 
       "interval":300000,
 
-      "ads_list": ["al", "am"]
+      "ads_list": ["is", "al", "am"]
     }
   }
 ]
