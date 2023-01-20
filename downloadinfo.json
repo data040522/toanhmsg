@@ -27,7 +27,7 @@
 
       "interval":10000,
 
-      "ads_list": ["is", "al", "am"]
+      "ads_list": ["al", "is", "am"]
     }
   }
 ]
