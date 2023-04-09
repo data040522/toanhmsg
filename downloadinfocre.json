@@ -68,22 +68,6 @@
       "type": "am",
        "ads_list": ["am", "fb"],
 
-      "am_ba": "UXElstq9wvrZlRjplC/FteRa3GIbenenkudPmbo+Yk3hIkno/env860CLMvcQdZv",
-      "am_in": "UXElstq9wvrZlRjplC/FtSeNOGK2yrZWQXKplEdbGfygMCO/QZEmDg1yyaZxQk/j",
-      "am_na": "UXElstq9wvrZlRjplC/FtbAOLk7xOI3nNFnnY8xW28cdA85YpuPgajtzuA8idMdK",
-      "am_vi": "UXElstq9wvrZlRjplC/FtVdEsrko26nux/iRs8J4lEym/lxdBy11Q63OnMER4ZCB",
-
-      "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
-      "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
-      "fb_re": "JJua8gf9Cjv23HILYyEf4D9w5OFCBxRK8UHHB/O9Y1A=",
-      "fb_na": "JJua8gf9Cjv23HILYyEf4IlpnU6SaiPn0sW7Rhxev1I="
-    }
-  },
-  {
-    "cas.happy.birthday.photo.frames.backup": {
-      "type": "am",
-       "ads_list": ["am", "fb"],
-
       "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
       "am_in": "np6IFKz3ilk90LOBpUbpqNrvcjhHKEMGthgStNoi2rQcTsVuahWc7LxR7cqsDmpF",
       "am_na": "np6IFKz3ilk90LOBpUbpqPhM7FrutWLmONOumOu8ka4xJHRosiNVKCBlSIxcbDqu",
