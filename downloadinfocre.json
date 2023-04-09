@@ -68,9 +68,10 @@
       "type": "am",
        "ads_list": ["am", "fb"],
 
-      "am_ba": "np6IFKz3ilk90LOBpUbpqHW3RxyY2LgJeFPZnYN6vth0jg7wX6qhf3jAyRvWvIxt",
-      "am_in": "np6IFKz3ilk90LOBpUbpqNrvcjhHKEMGthgStNoi2rQcTsVuahWc7LxR7cqsDmpF",
-      "am_na": "np6IFKz3ilk90LOBpUbpqPhM7FrutWLmONOumOu8ka4xJHRosiNVKCBlSIxcbDqu",
+      "am_ba": "yReTqmg8RNbcOZxfCLIDxHxXoRiNjrtuX9mt0+xsZNJC8+B80RNyP5TJqtmYXXUs",
+      "am_in": "yReTqmg8RNbcOZxfCLIDxJ5KDW4xcdmIhjz36oxh3Om80sR4uC/xmtZ0YcADqU+V",
+      "am_na": "yReTqmg8RNbcOZxfCLIDxGsu39OLucbWrclwcxy7FW/hU87oS6bahJjDSXbZ6/f5",
+      "am_vi": "yReTqmg8RNbcOZxfCLIDxGoE/yK7t7LA4ImE37ImUstuR6nbdOgQOQiv2f+IGMoN",
 
       "fb_ba": "JJua8gf9Cjv23HILYyEf4GhbWeB9Td36IkveI4JGLIE=",
       "fb_in": "JJua8gf9Cjv23HILYyEf4LD3UeQ4QGJtObYOdjo/I/U=",
