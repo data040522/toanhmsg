@@ -14,7 +14,7 @@
 
 	     "interval":60000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["am", "is", "al"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "am_ba": "ca-app-pub-8353674588373272/5904768410",
@@ -29,7 +29,7 @@
 
       "interval":60000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["am", "is", "al"]
     }
   }
 ]
