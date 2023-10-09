@@ -18,7 +18,7 @@
     },
     "sweet.beauty.cam.toanhmsg": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-8353674588373272/5019053692",
       "am_na": "",
 
       "al_re": "9fe0111e502b0ae3",
@@ -29,7 +29,7 @@
 
       "interval":60000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["am", "is", "al"]
     }
   }
 ]
