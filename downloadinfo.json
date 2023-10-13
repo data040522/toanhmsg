@@ -29,7 +29,7 @@
 
       "interval":60000,
 
-      "ads_list": ["al", "am", "is"]
+      "ads_list": ["am", "is", "al"]
     }
   }
 ]
