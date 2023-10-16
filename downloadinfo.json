@@ -1,9 +1,9 @@
 [
   {
     "neon.horns.devil": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-4259184024127769/1596492044",
+      "am_in": "ca-app-pub-4259184024127769/4258368305",
+      "am_na": "ca-app-pub-4259184024127769/5739751185",
 
       "al_re": "c2fe71d919d39280",
       "al_in": "4cbaf8c900614cd6",
@@ -14,7 +14,7 @@
 
 	     "interval":60000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["am", "is", "al"]
     },
     "sweet.beauty.cam.toanhmsg": {
       "am_ba": "",
