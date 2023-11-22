@@ -17,10 +17,10 @@
       "ads_list": ["is", "al"]
     },
     "sweet.beauty.cam.toanhmsg": {
-      "am_ba": "ca-app-pub-3940256099942544/6300978111",
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
-      "am_na": "ca-app-pub-3940256099942544/2247696110",
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+      "app_id": "",
 
       "al_re": "9fe0111e502b0ae3",
       "al_in": "b22debe693ec74d1",
@@ -30,7 +30,7 @@
 
       "interval":60000,
 
-      "ads_list": ["am", "is", "al"]
+      "ads_list": ["is", "al"]
     }
   }
 ]
